@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 数据与实验产物
+data/
+checkpoints/
+runs/
+wandb/
+logs/
+*.pt
+*.pth
+*.ckpt
+
+# 密钥
+.env
